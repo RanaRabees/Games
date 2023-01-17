@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">kaiQabeela</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="go_to_home">go_to_home</string>
+    <string name="title_activity_index_scrolling">IndexScrolling</string>
+    <string name="large_text">
+       سلطنت عثمانیہ جو عثمان اول یا عثمان غازی کے نام سے منسوب کی جاتی ہے یہ سلطنت عثمانیہ کی ابتدا کیسے ہوئی . عثمان اول كون تھا اور اُس کا تعلق کس قبیلے سے تھا اور ایک خانہ بدوش قبیلے نے تاریخ کی سب سے بڑی مسلم سلطنت کی بنیاد کیسے رکھی ؟
+
+عثمانیہ کا تعلق ایک ترکمان قبائل سے تھا جو 13ء صدی میں کروستان میں آباد تھا اور یہ لوگ پیشے سے چرواہے تھے ، 1220ء میں جب منگولیا نے چنگیز خان کی قیادت میں عراق اور ایشیاء پے حملے کرنا شروع کیے تو عثمان کا دادا جس کا نام سليمان تھا اپنے قبیلے کے ساتھ ہجرت کر کے کروستان سے احلاق کے شہر آ جاتا ہے اور اُس کو اپنا مرکز بنا لیتا ہے۔
+
+ہجرت کے بعد عثمان کا دادا سليمان 1230ء میں انتقال کر جاتا ہے اور انتقال سے پہلے اپنا جانشین اپنے بیٹے ارطغرل کو بنا جاتا ہے ، والد کے انتقال کے بعد ارطغرل انازول کے شہر احلاق سے شمال مغرب کی طرف مسلسل بھاڑتا رہا اُس وقت اُس کے ساتھ تقریبان 100 خاندان تھے ، ان کا سفر جاری ہی تھا کے راستے میں ایک مقام پر جنگ ہو رہی تھی وہ جنگ مسلمان اور نصرانیوں کے درمیان تھی، ارطغرل کے پاس بس ایک ہی رستہ تھا کے وہ اپنے ہم مذہب لوگوں کی مدد کرے ، لہذا ارطغرل نے یہ ہی کیا مطلب نصرانیوں پر بہادری کے ساتھ حملہ کیا اور باروقت حملہ کرنے کی وجہ سے مسلمانوں کوفاتح نصیب ہوئی ، جنگ کے احتتام پر مسلمان لشکر کے سیپہ سالار نے ارطغرل اور اُس کے دستِے کی تاحزین کی اور اُنہیں رومی سرحدوں کے پڑوس میں مطلب انازول کے مغرب سرحدوں میں ایک جاگیرعطا کی ،
+
+
+
+اِس تارا ان کو موقع دیا گیا کے وہ رومی ایلیکورکی طرف پیش قدمی کرے ، پیش قدمی کو جاری رکھتے ہوے سلجوقی سلطنت کی توسیع کا مجیب بنیں
+
+
+پِھرارطغرل اور اُس کے قبیلے نے سلجوقی سلطنت کا رومیو كے خلاف جہاد میں پورا ساتھ دیا ارطغرل جب تک زندہ رہا محبت کا تعلق باقی رہا،
+
+ عثمان کے والد ارطغرل کا انتقال 1299ء میں ہو جاتا ہے اور عثمان اپنے والد کی جگہ اپنے قبیلے کا نیا سردار مقرر ہو جاتا ہے ، عثمان جس کا نام عثمانی سلطنت منسوب کیا جاتا ہے ان کی پیدائش 1258ء میں ہوئی اور اپنے والد کے انتقال کے بعد عثمان نے سالجوکی سلطنت کی توسیع  میں اپنا کردار ادا کیا اور مسلسل روم کی طرف پیش قدمی کرتا رہا جب عثمان اول کا 1324ء میں انتقال ہوا تب اس کی سلطنت کا کل رقبہ 16000 مربع کلومیٹر تھا.
+
+عثمان غازی یا عثمان اول کی آخری آرام گا ترکی کے شہر برسا میں ہیں
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="go_to_index">go_to_index</string>
+    <string name="title_activity_birthday_card_full_screen">KaiQabeela</string>
+    <string name="dummy_button">مجاہدو تیار ہو جاؤ۔</string>
+    <string name="dummy_content">کائ قبیلہ پاکستان پہنچ چکا ہے بس اب سب تیار ہو جاؤ کسی بھی وقت کال آ سکتی ہے۔</string>
+    <string name="title_activity_login_main">LoginActivityMain</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_contact">Contact</string>
+    <string name="Contact">History</string>
+    <string name="go_to_Main_Page">go_to_Main_Page</string>
+    <string name="go_to_index_Artughrul_History">go_to_index_Artughrul_History</string>
+    <string name="activity_main">activity_main</string>
+    <string name="artughrul">artughrul</string>
+    <string name="artughrula">artughrula</string>
+</resources>
